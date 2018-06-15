@@ -1,0 +1,56 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeMCUcontroller", "NodeMCUcontroller\NodeMCUcontroller.csproj", "{ECD2E1D7-FAEB-4FB1-A3FC-1077075725D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD2E1D7-FAEB-4FB1-A3FC-1077075725D6}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{ECD2E1D7-FAEB-4FB1-A3FC-1077075725D6}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{ECD2E1D7-FAEB-4FB1-A3FC-1077075725D6}.Release|iPhone.ActiveCfg = Release|iPhone
+		{ECD2E1D7-FAEB-4FB1-A3FC-1077075725D6}.Release|iPhone.Build.0 = Release|iPhone
+		{ECD2E1D7-FAEB-4FB1-A3FC-1077075725D6}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{ECD2E1D7-FAEB-4FB1-A3FC-1077075725D6}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{ECD2E1D7-FAEB-4FB1-A3FC-1077075725D6}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{ECD2E1D7-FAEB-4FB1-A3FC-1077075725D6}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-json
+		$0.JSONFormattingPolicy = $3
+		$3.AutoStructureCompletion = True
+		$3.BracePositions = SemiExpanded
+		$3.FormatOnPaste = True
+		$3.scope = text/x-json
+		$0.TextStylePolicy = $4
+		$4.inheritsSet = null
+		$4.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $5
+		$5.NewLinesForBracesInTypes = False
+		$5.NewLinesForBracesInMethods = False
+		$5.NewLinesForBracesInProperties = False
+		$5.NewLinesForBracesInAccessors = False
+		$5.NewLinesForBracesInAnonymousMethods = False
+		$5.NewLinesForBracesInControlBlocks = False
+		$5.NewLinesForBracesInAnonymousTypes = False
+		$5.NewLinesForBracesInObjectCollectionArrayInitializers = False
+		$5.NewLinesForBracesInLambdaExpressionBody = False
+		$5.NewLineForElse = False
+		$5.NewLineForCatch = False
+		$5.NewLineForFinally = False
+		$5.SpaceAfterCast = True
+		$5.scope = text/x-csharp
+		$0.StandardHeader = $6
+		$0.VersionControlPolicy = $7
+	EndGlobalSection
+EndGlobal
